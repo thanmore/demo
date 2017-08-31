@@ -1,0 +1,7 @@
+server:
+  port: 8081
+  context-path: /demo
+
+people:
+age: 18
+name: sam
